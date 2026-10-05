@@ -1,0 +1,4 @@
+{
+    "terminal.integrated.stickyScroll.enabled": false,
+    "cmake.sourceDirectory": "/home/bava/tinyml_workspace/esp32_tinyml"
+}
